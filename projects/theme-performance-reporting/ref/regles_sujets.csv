@@ -1,0 +1,63 @@
+ordre,id,motif_regex,sujet,bucket
+-2,R00a,partner.?training,Programme partenaires,Partenaires
+-1,R00b,/en-us/ad-,Landing page Ads (demande de démo),Neutre / BOFU
+1,R01,fraud.?readiness|payment-fraud-readiness,Fraud Readiness Survey 2026,Fraude & sécurité
+2,R02,mitigat\w*.?(ap.?)?fraud|mitigating-fraud,Guide Mitigating AP Fraud Risk,Fraude & sécurité
+3,R03,fighting.?fra|cfos?.?guide.?to.?fraud,CFO Guide to Fighting Fraud,Fraude & sécurité
+4,R04,hidden.?cost.*fraud|ap-hidden-fraud|cut-costs-fraud,Hidden Cost of AP Fraud,Fraude & sécurité
+5,R05,rethinking.?ap.?fraud|q2 fraud webinar|from-manual-to-modern,Webinar Rethinking AP Fraud Prevention,Fraude & sécurité
+6,R06,fraud.?playbook|lean.?response.*fraud,Fraud Playbook,Fraude & sécurité
+7,R07,yoozprotect|fraud-protection|faced-fraud|stay-ahead-of-fraud|financial-fraud|solution-fraud|accounts-payable-fraud|dynamic-fraud|fraud-prevention|velocity fraud|fraudes|fraud-partner,YoozProtect & prévention de la fraude,Fraude & sécurité
+8,R08,show.?me.?the.?money|money ebook|digital-payments,eBook Show Me the Money (paiements digitaux),Paiements
+9,R09,yoozpay|payment-automation|payment-software|ad-invoice-payment|turns-payments|payment,YoozPay & automatisation des paiements,Paiements
+10,R10,ap.?pulse,Étude AP Pulse (mid-market),Études & benchmarks
+11,R11,ai.?in.?(the.?)?finance|ai-in-finance|ai in the workplace|state-of-automation,Rapport IA en finance 2026,IA & automatisation
+12,R12,line.?level|po-matching|ai-purchase-order|po demo,Rapprochement PO ligne à ligne (IA),IA & automatisation
+13,R13,agentic|ai demo day|ai expertise|use-of-ai|ai-adoption|ai-driven|ai-agent|ai-scaling|ai-powered,IA appliquée à l'AP,IA & automatisation
+14,R38a,ap automation empowers cfo|empowers-cfo,Webinar AP Automation Empowers the CFO,Stratégie CFO
+15,R14,thriving|cfo.?handbook,CFO Handbook Thriving in Transition,Stratégie CFO
+16,R15,cfo.?guide.?to.?growth|growth mini|velocity growth|unlock-growth,CFO Guide to Growth,Stratégie CFO
+17,R16,mandate,Webinar CFO's 2026 Mandate,Stratégie CFO
+18,R17,agile.?accounting,Webinar Agile Accounting Teams,Stratégie CFO
+19,R18,change.?management,Change Management (ebook + webinar),Change management & adoption
+20,R19,financial.?control|audit-ready|unified.?ap|multi-entity|control-cost|cfo-resource-hub|cfo-solutions|finance.?control|leader-vs-ledger|mastering-compliance,"Contrôle financier, audit & guides finance",Contrôle & conformité
+21,R20,1099,Enquête 1099,Contrôle & conformité
+22,R20b,smartest-ap|smartest ap|powering-.*ap-automation|see-yooz-in-action|stop-the-manual-grind|unlock-lean-financial-operations-20,Flash Demos mensuelles & démos produit,Démos & fonctionnalités produit
+23,R21,lean.?(finance|financial).?(blueprint|for).*manufactur|lean_mfg|lean finance for manufacturing|lean-finance-blueprint,Lean Finance Blueprint for Manufacturing,Contenus verticaux
+24,R22,lean.?ap.?automation|lean_ap_automation|lean blueprint,Lean AP Automation Blueprint,Générique / marque
+25,R23,distributed.?teams,Webinar Lean AP for Distributed Teams,Stratégie CFO
+26,R24,new.?lean.?standard,Webinar The New Lean Standard,Générique / marque
+27,R26,assessment|roi|bill360|cut costs,Diagnostic AP & ROI,ROI & coûts
+28,R27,success-stor|testimonial|truck-centers-bold,Success stories clients,Preuves clients
+29,R27c,/resource/tradeshow/,Salons & événements,Événements & salons
+30,R27b,pain.?points,eBook Pain Points (par verticale),Contenus verticaux
+31,R39,insight.?collective|successfuel|sucessfuel|technologyadvice|lead-magnet|syndication|content syndication,"Syndication whitepapers par industrie (InsightCollective, TechnologyAdvice, SuccessFuel)",Contenus verticaux
+32,R28a,survival-guide-for-dealership|mergers-acquisitions-survival|dealership-mergers,eBook Dealership Groups M&A Survival Guide,Contenus verticaux
+33,R28b,automotive-industry-guide|playbook automotive|buyers guide|dms ebook,"Guides Automotive (industry guide, buyers guide, DMS)",Contenus verticaux
+34,R28c,yooz-and-the-automotive|lean-financial-operations-for-the-automotive|for-the-automotive-industry,Webinar Yooz & l'industrie automobile,Contenus verticaux
+35,R28d,dealership.?panel|how-dealerships-use-yooz|dealership pannel|nada-edu,"Webinars concessions (Dealership Panel, AP visibility, NADA)",Contenus verticaux
+36,R28e,construction-industry-guide|modern ap in construction|playbook construction,Guide Construction Industry,Contenus verticaux
+37,R28f,ap-automation-playbook-for-trucking|playbook heavy truck,Playbook AP for Trucking Finance Leaders,Contenus verticaux
+38,R28g,trucking-industry|truck-dealership-profits|heavy.?truck.?demo|heavy-trucking|truck-industry|trucking dealerships,Webinars Heavy Truck,Contenus verticaux
+39,R28h,manufacturing-industry-guide,Guide Manufacturing Industry,Contenus verticaux
+40,R28,construction.?industry.?guide|7-key-construction|construction pain|buyers-guide-for-construction|ap-buyers-guide-for-construction|paper.?chaos|concrete.?control|construction ?dive|lumber|construction public demo|construction-public-demo|sage construction|construction_webinar|nur_construction|playbook construction|industry/construction|cash flow|construction,Autres contenus Construction,Contenus verticaux
+41,R29,dealership|automotive|dms ebook|buyers guide|nada|niada|gnyada|wardsauto|cdk|nur_automotive|industry/automotive|dealer huddle|namad|aicpa dealership|autoteam,Autres contenus Automotive,Contenus verticaux
+42,R30,truck|trucking|heavy.?truck|karmak|procede|peterbilt|paccar|atd show|atd sponsored,Autres contenus Heavy Truck,Contenus verticaux
+43,R31,manufactur|mfg|industry/manufacturing,Autres contenus Manufacturing,Contenus verticaux
+44,R32,hospitality|hitec,Contenus Hospitality,Contenus verticaux
+45,R33,sage|netsuite|suiteworld|ms.?dynamics|msdw|microsoft|dynamics|acumatica|intuit|quickbooks|epicor|codabears|\bgp\b|\bbc\b|isv|infor|erp|tug|directions|baass|bc demo|knights|platform talks,Intégrations ERP,Intégrations ERP
+46,R34b,iofm town hall,IOFM Town Halls (webinar public générique),Démos & fonctionnalités produit
+47,R34a,iofm.*demo|demo.?day|demo replay|ap-reimagined,IOFM Demo Days,Démos & fonctionnalités produit
+48,R34,flash.?demo|see-yooz-in-action|smartest-ap|stop-the-manual-grind|eliminating-manual|iofm.*demo|demo.?day|demo replay|ap-reimagined|powering-ap-automation|flash-demo,Flash Demos mensuelles & démos produit,Démos & fonctionnalités produit
+49,R35,vendor.?statement|yvs|reports|budget|dynamic-workflows|invoice.?fetcher|attachments upsell|feature|attachments|data-entry-to-data-engine,Fonctionnalités produit,Démos & fonctionnalités produit
+50,R37,partner|impartner|referral|declare-a-lead|become.?a.?partner|town hall_2026-08-19,Programme partenaires,Partenaires
+51,R36,insider|training|office.?hours|customer newsletter|yooz.?news|yooz-university|training-journey|rising training|indy race|cus-live,Clients (Insider / Training),Clients & rétention
+52,R25,lean.?financial.?op|lean-advantage|financial-ops-fat|cut-the-fat|path-to-lean|lean-financial|leanest|new-yooz|brand.?refresh|nur_brand|lean finance tool,Message Lean Financial Operations (brand refresh),Générique / marque
+53,R38,iofm|town hall|q[123] edu|educational|edu webinar|edu-live|industry ?dive|roundtable|ace-micro|cbo,Webinars éducatifs (thème non précisé),À préciser
+54,R40,tradeshow|summit|conference|confrence|expo|show|convention|event|cfma|world of concrete|buildex|fate|cfo meet|roadshow|happy hour|comptrollers|scaling new heights|ibs|follow-up tradeshow|dlnq|pine-summit|innovia|cherry bekaert|baker tilly|modex,Salons & événements,Événements & salons
+55,R40c,auto specific nurture,Autres contenus Automotive,Contenus verticaux
+56,R40b,refer-a-friend,Programme partenaires,Partenaires
+57,R41,get-demo|request-demo|request demo|get a demo|chilipiper|pricing|request-quote|contact|typ/|thank-you|sdr_appt|leandata|softwareadvice|capterra|g2|appvizer|catchemail|demo_new_structure|free demo|reset score|unsubscri,BOFU (demande de démo / contact),Neutre / BOFU
+58,R42,newsletter|monthly events,Newsletter (lien générique),Neutre / BOFU
+59,R43,linkedin|facebook|youtube|x\.com|twitter|instagram|safelinks|zoom\.us|gotowebinar|on24,Réseaux sociaux / liens techniques,Neutre / BOFU
+60,R44,/en-us/ad-|invoice-management|invoice management|ap-software|ap-automation|invoice-tracking|invoice-automation|invoice-capture|procure-to-pay|accounts-payable|product-perf|solution-|/product|why-yooz|^/$|/resources$|^/blog|/company|digital-transformation|resources|^yooz$|unreachable|authority|no_value|catchback|post-recycle|mini-abm|fusable|psm_post,Message générique AP automation / marque,Générique / marque
