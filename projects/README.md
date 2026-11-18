@@ -8,6 +8,7 @@ Statuts : 🟢 actif · 🟡 en pause / en attente · ✅ livré · 📦 archiv�
 | Content Angles 2027 vs data NORAM | Mathieu Tagnon | ✅ livré 21/10/2026 | [content-angles-2027](content-angles-2027/) |
 | Topics 2027 (étape 1) | Mathieu Tagnon | 🟡 étape 2 en attente de validation | [topics-2027](topics-2027/) |
 | Marketing Intelligence | Andrew, Jessica, Michael | 🟢 cadrage / prototype | [marketing-intelligence](marketing-intelligence/) |
+| Yooz Brain (niveau 1 de Marketing Intelligence : skill Claude sur la donnée GTM) | Greg, Chris, Flo | 🟢 brouillon, validation Chris en cours | [yooz-brain](yooz-brain/) |
 
 ## Projets sans dossier pour l'instant
 

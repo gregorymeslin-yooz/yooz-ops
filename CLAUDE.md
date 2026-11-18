@@ -6,7 +6,7 @@ Ce repo est la mémoire de travail long terme de Greg pour Yooz. Le projet Claud
 
 1. Lire `projects/README.md` pour trouver le projet concerné.
 2. Lire le `README.md` du projet (statut, décisions, prochaines étapes).
-3. Avant toute analyse Salesforce ou HubSpot : lire `knowledge/salesforce/` et `knowledge/hubspot/`.
+3. Avant toute analyse Salesforce ou HubSpot : lire `projects/yooz-brain/skill/yooz-brain/SKILL.md` (règles d'or et aiguillage du Yooz Brain ; pour tout chiffre, aussi `references/pitfalls.md`), puis `knowledge/salesforce/` et `knowledge/hubspot/`.
 4. Avant une analyse contenu → pipeline ou une décision sur petits volumes : lire `playbooks/`.
 
 ## En écrivant
